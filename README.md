@@ -6,4 +6,4 @@ Your team's project repo. Push here → Cloudflare Pages CI/CD builds & deploys 
 
 Then build your AI-assisted micro-product. Static site works out of the box; add a build step if you need one.
 
-Hello
+Hello 
